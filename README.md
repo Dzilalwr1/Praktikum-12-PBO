@@ -15,4 +15,5 @@ Proyek ini mendemonstrasikan implementasi prinsip SOLID (SRP, OCP, DIP) pada sis
    python refactor_solid.py
 
 ### Histori Perubahan (Log)
-Kode dikelola menggunakan Git. Lihat [link ke GitHub Commit History].
+Kode dikelola menggunakan Git. Lihat [https://github.com/Dzilalwr1/Praktikum-12-PBO/commits/main/].
+
